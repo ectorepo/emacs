@@ -3,7 +3,7 @@
   <include name="_remotes.xml"/>
   <default remote="savannah" sync-j="8" revision="refs/heads/master"/>
   <project path="emacs" name="emacs"/>
-  <project path="elpa" name="emacs/elpa"/>
-  <project path="nongnu" name="emacs/nongnu"/>
-  <project path="org-mode" name="emacs/org-mode"/>
+  <project path="elpa" name="emacs/elpa" revision="refs/heads/main"/>
+  <project path="nongnu" name="emacs/nongnu" revision="refs/heads/main"/>
+  <project path="org-mode" name="emacs/org-mode" revision="refs/heads/main"/>
 </manifest>
