@@ -2,6 +2,7 @@
 #+AUTHOR:    David Conner
 #+EMAIL:     noreply@te.xel.io
 #+DESCRIPTION: notes
+#+PROPERTY: header-args :comments none
 
 Emacs-related repos from [[https://savannah.gnu.org/git/?group=emacs][savannah.gnu.org]]
 
